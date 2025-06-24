@@ -31,7 +31,7 @@ Here's the implemented logic with a corrected latching configuration:
 >
 > ✅ The fix: Place the Stop button in series with both Start and the seal-in branch.
 
-![Ladder Logic Diagram]("C:\Users\benja\OneDrive\Pictures\Screenshots\motor_on_off_ladder_logic.png")
+![Ladder Logic Diagram](./motor_on_off_ladder_logic.png)
 
 ---
 
@@ -39,7 +39,7 @@ Here's the implemented logic with a corrected latching configuration:
 
 Screenshot of the Machine Simulator with virtual PLC CPU in use:
 
-![Machine Simulator UI](images/machine_simulator.png)
+![Machine Simulator UI](./motor_on_off_simulation.png)
 
 ---
 
@@ -77,14 +77,6 @@ This project serves as a foundation for understanding:
 
 ---
 
-## 📷 Additional Media
-
-| Logic Diagram | Machine Simulator UI |
-|---------------|-----------------------|
-| ![Logic](images/ladder_logic.png) | ![Simulator](images/machine_simulator.png) |
-
----
-
 ## 📎 License
 
 This project is for educational purposes.
@@ -94,5 +86,5 @@ This project is for educational purposes.
 ## 🙋‍♂️ Author
 
 Benjamin Kaliope  
-Freshman Computer Engineering Student  
+Sophomore Computer Engineering Student  
 University of South Carolina
